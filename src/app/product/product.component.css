@@ -1,0 +1,39 @@
+/* product.component.css */
+
+/* Estilos para temática elegante */
+
+/* Texto elegante */
+.text-elegante {
+  color: #B8860B; /* Color dorado oscuro */
+  font-family: "Arial", sans-serif; /* Fuente elegante */
+}
+
+/* Botones elegantes */
+.btn-elegante {
+  background-color: #333; /* Color de fondo negro */
+  color: #B8860B; /* Color del texto dorado oscuro */
+  border: 1px solid #B8860B; /* Borde dorado oscuro */
+  transition: background-color 0.3s, color 0.3s; /* Transición suave de colores */
+}
+
+.btn-elegante:hover {
+  background-color: #B8860B; /* Cambia a dorado oscuro al pasar el ratón */
+  color: #333; /* Cambia a negro al pasar el ratón */
+}
+
+/* Tabla elegante */
+.table-elegante {
+  background-color: #333; /* Color de fondo negro */
+  color: #B8860B; /* Color del texto dorado oscuro */
+  border: 1px solid #B8860B; /* Borde dorado oscuro */
+  font-family: "Arial", sans-serif; /* Fuente elegante */
+}
+
+.table-elegante th, .table-elegante td {
+  border: 1px solid #B8860B; /* Borde dorado oscuro en las celdas */
+}
+
+.table-elegante th {
+  background-color: #B8860B; /* Fondo dorado oscuro en las celdas de encabezado */
+  color: #333; /* Texto negro en las celdas de encabezado */
+}
